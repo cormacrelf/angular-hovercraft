@@ -32,7 +32,7 @@
     "@ngrx/store": "^8.0.0",
     "@ngrx/store-devtools": "^8.0.0",
     "angular2-hotkeys": "^2.1.2",
-    "core-js": "^2.5.4",
+    "core-js": "^3.15.2",
     "faker": "^4.1.0",
     "immer": "^3.1.2",
     "immutable": "4.0.0-rc.12",
