@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "devDependencies": {
-        "@angular/cli": "^8.0.0",
+        "@angular/cli": "^12.1.2",
         "@angular/common": "^8.0.0",
         "@angular/compiler": "^8.0.0",
         "@angular/compiler-cli": "^8.0.0",
